@@ -18,6 +18,6 @@ entries:
     - https://github.com/dweomer/dockerfiles-nginx-auth-ldap
     - https://github.com/kvspb/nginx-auth-ldap
     urls:
-    - https://github.com/ghjacky/helm-charts/nginx-ldapauth-proxy-0.1.4.tgz
+    - https://ghjacky.github.io/helm-charts/nginx-ldapauth-proxy-0.1.4.tgz
     version: 0.1.4
 generated: "2020-09-18T10:19:41.65001+08:00"
